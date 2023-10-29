@@ -3,7 +3,8 @@
 
 ### Example
 <img src="sashimidemo.png">
-(Review the code [here](https://github.com/MarshDeer/flightrising-embed/blob/trunk/proofofconcept.html). Redirection not implemented yet.)
+
+Review the code [here](proofofconcept.html). Redirection not implemented yet.
 
 ### Initial disclaimer
 This project is currently in the proof of concept stage and will not be "published" for public use before consulting at least a portion of the game's community and, of course, sending a support ticket to confirm whether this is okay with Flight Rising's team. As I hope to make clear in the [Mission Statement](#mission-statement) section of this readme, I do not intend to break point 13 of the "Conduct" section of the [Flight Rising Terms of Use](https://flightrising.com/main.php?p=wiki&article=81), and I will take all the steps necessary to reduce this tool's load on Flight Rising's servers before making it publicly accessible.
