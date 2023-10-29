@@ -1,8 +1,9 @@
 # Flight Rising Embed
 ## A fix for Flight Rising dragon profile embeds on Discord
 
-### Demo
+### Example
 <img src="sashimidemo.png">
+(Review the code [here](proofofconcept.html). Redirection not implemented yet.)
 
 ### Initial disclaimer
 This project is currently in the proof of concept stage and will not be "published" for public use before consulting at least a portion of the game's community and, of course, sending a support ticket to confirm whether this is okay with Flight Rising's team. As I hope to make clear in the [Mission Statement](#mission-statement) section of this readme, I do not intend to break point 13 of the "Conduct" section of the [Flight Rising Terms of Use](https://flightrising.com/main.php?p=wiki&article=81), and I will take all the steps necessary to reduce this tool's load on Flight Rising's servers before making it publicly accessible.
@@ -21,9 +22,9 @@ My intent with creating this tool is just to give back to a community that has b
 ### Takedowns?
 *I will comply with any takedown requests by Stormlight Workshop LLC if they consider that this tool breaks Flight Rising's Terms of Use.*
 
-I would, however, like to use this opportunity to kindly request a chance to discuss this with FR's Engineering team before such a request is issued, as this project is done completely in good faith and a I genuinely believe it could represent a significative quality-of-life improvement for Flight Rising's community. At the very least, I would like to request that no punitive action be taken against my partner's account, with whom I share an IP address, if this is considered a bannable offense for my account.
+I would, however, like to use this opportunity to kindly request a chance to discuss this with FR's Engineering team before such a request is issued, as this project is done completely in good faith and I genuinely believe it could represent a significative quality-of-life improvement for a big part of Flight Rising's community. At the very least, I would like to request that no punitive action be taken against my partner's account, with whom I share an IP address, if this is considered a bannable offense for my account.
 
-Thanks!
+Thanks for your time and consideration!
 
 ### Copyright
 Flight Rising is © 2013 - 2023 Stormlight Workshop, LLC. All Rights Reserved to Stormlight Workshop.
