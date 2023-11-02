@@ -29,7 +29,7 @@ After users edit the dragon profile URL, Discord would query the new URL's meta 
 ### Privacy and good faith disclaimer
 Ideally, this tool would use Cloudflare Workers, and thus it would only be able to run when users requested information. It would not have persistent memory, a database, or even a filesystem to read from at all. No one, including me, would have a record of the dragon profiles (or the contents thereof) being requested through the tool.
 
-Players would only be able to use this tool for dragon profiles they already "have access" to. That is to say: it would not scrape dragon profiles it was not specifically asked for, and there would be no way to use it to monitor new dragon IDs for whatever reason; as such, it would not enable players to harass others by automatically scraping data from their lairs, and its base code would not include any features that would make this malicious "use case".
+Players would only be able to use this tool for dragon profiles they already "have access" to. That is to say: it would not scrape dragon profiles it was not specifically asked for, and there would be no way to use it to monitor new dragon IDs for whatever reason; as such, the tool's base code would not enable players to harass others by automatically scraping data from their lairs, and no pull requests that could enable this "use case" would be merged.
 
 All of the tool's code would be publicly available on this repository, to enable players to audit and improve its code as they see fit. Absolutely no part of the process would be a "black box", and users would be encouraged to check the code themselves to verify it is in fact safe to use it to generate embed cards for their dragons.
 
